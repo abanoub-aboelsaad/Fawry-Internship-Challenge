@@ -1,5 +1,5 @@
 # Fawry-Internship-Challenge
-# Fawry Quantum Internship Challenge - E-commerce System
+
 
 ## System Overview
 
